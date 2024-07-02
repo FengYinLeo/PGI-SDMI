@@ -1,6 +1,6 @@
 Pattern Graph Insight-State Difference Mutual Information
 =======
-``PGI-SDMI algorithm is used to select the RIFs to improve the prediction accuracy of marine accident severity. This is the code repository for our publication ''Prediction of the severity of marine accidents using improved machine learning'' that will be published on Transportation Research Part E.``
+``PGI-SDMI algorithm is used to select the RIFs to improve the prediction accuracy of marine accident severity. This is the code repository for our publication ''Prediction of the severity of marine accidents using improved machine learning'' that is published on Transportation Research Part E.``
 ## Motivation
 This study aims to optimise the predictive performance of the model by utilising FS techniques to enhance the prediction accuracy. Among the commonly employed FS algorithms, methods such as Removing Features with Low Variance (RFLV) and Traditional Mutual Information (TMI) are prevalent for feature subset selection in classification problems. However, factors such as problem dependency, feature complexity, and combinatorial explosion can hinder these methods from yielding the optimal feature subset for a specific problem, thus limiting improvements in model prediction performance. Consequently, the primary objective of this study is to develop an advanced FS method aimed at maximising prediction accuracy, which serves as the core focus of this research.
 ## Methodology
@@ -12,5 +12,6 @@ This figure shows the main structure of the PGI-SDMI algorithm. It mainly includ
 * We give an example of calling this research algorithm for feature selection in the "Run_the_example.ipynb" file.
 ## Citation
 Please cite our paper if this repository is helpful for your study.
+{Yinwei Feng, Xinjian Wang, Qilei Chen, Zaili Yang, Jin Wang, Huanhuan Li, Guoqing Xia, Zhengjiang Liu,Prediction of the severity of marine accidents using improved machine learning,Transportation Research Part E: Logistics and Transportation Review,2024,103647.https://doi.org/10.1016/j.tre.2024.103647.}
 ## License
 This project is released under the MIT license.
