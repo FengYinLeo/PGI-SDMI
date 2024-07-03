@@ -11,7 +11,9 @@ This figure shows the main structure of the PGI-SDMI algorithm. It mainly includ
 * We add "PGI.py", "SDMI.py", and "PGI_SDMI.py" files to folder "feature selection algorithm" to implement the proposed PGI, SDMI, and PGI-SDMI feature selection algorithms respectively.
 * We give an example of calling this research algorithm for feature selection in the "Run_the_example.ipynb" file.
 ## Citation
-Please cite our paper if this repository is helpful for your study.
-{Yinwei Feng, Xinjian Wang, Qilei Chen, Zaili Yang, Jin Wang, Huanhuan Li, Guoqing Xia, Zhengjiang Liu,Prediction of the severity of marine accidents using improved machine learning,Transportation Research Part E: Logistics and Transportation Review,2024,103647.https://doi.org/10.1016/j.tre.2024.103647.}
+Please cite our paper if this repository is helpful for your study.  
+{
+Feng, Y., Wang, X., Chen, Q., Yang, Z., Wang, J., Li, H., Xia, G., Liu, Z., 2024. Prediction of the severity of marine accidents using improvedmachine learning. Transportation Research Part E: Logistics and Transportation Review 188, 103647. https://doi.org/10.1016/j.tre.2024.103647.
+}
 ## License
 This project is released under the MIT license.
